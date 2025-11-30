@@ -1,0 +1,23 @@
+# 기본 패키지
+pandas==2.1.3
+openpyxl==3.1.2
+matplotlib==3.8.2
+numpy==1.26.2
+requests==2.31.0
+
+# 무료 고품질 대안
+Pillow==10.1.0
+moviepy==1.0.3                # 영상 편집
+pyttsx3==2.90                  # 오프라인 TTS (무료)
+pydub==0.25.1                  # 오디오 처리
+beautifulsoup4==4.12.2         # 웹 스크래핑
+lxml==4.9.3
+
+# 이미지 생성 (선택)
+# diffusers==0.21.4            # Stable Diffusion (로컬)
+# transformers==4.35.0
+# torch==2.1.0
+
+# 데이터 분석
+scipy==1.11.4
+scikit-learn==1.3.2
